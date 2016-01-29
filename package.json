@@ -4,7 +4,7 @@
   "description": "Helpers to create angular modules in a modular style",
   "main": "helper.js",
   "bin": {
-    "angular-module-helpers": "h.js"
+    "angular-module-helpers": "bin/h.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
