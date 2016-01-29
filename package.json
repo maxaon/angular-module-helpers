@@ -1,0 +1,26 @@
+{
+  "name": "angular-module-helpers",
+  "version": "1.0.0",
+  "description": "Helpers to create angular modules in a modular style",
+  "main": "helper.js",
+  "bin": {
+    "angular-module-helpers": "h.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxaon/angular-module-helpers.git"
+  },
+  "author": "Peter Kicenko <maxaon@xakep.ru> (https://github.com/maxaon)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxaon/angular-module-helpers/issues"
+  },
+  "homepage": "https://github.com/maxaon/angular-module-helpers#readme",
+  "dependencies": {
+    "lodash": "^4.0.1",
+    "yargs": "^3.32.0"
+  }
+}
